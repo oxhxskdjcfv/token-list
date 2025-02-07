@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "GMg8K8h42uWevnKGoYAUAi6nfWiH7NTGKUuS431jeRPF",
+  "symbol": "AS",
+  "name": "Aura Sol",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/DSrJTCw.png",
+  "tags": ["utility-token"]
+}
